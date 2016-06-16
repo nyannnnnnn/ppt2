@@ -1,18 +1,18 @@
 \beamer@endinputifotherversion {3.36pt}
 \beamer@sectionintoc {1}{Roadmap}{2}{0}{1}
 \beamer@subsectionintoc {1}{1}{Roadmap}{2}{0}{1}
-\beamer@sectionintoc {2}{External cause}{3}{0}{2}
-\beamer@subsectionintoc {2}{1}{azi}{3}{0}{2}
-\beamer@subsectionintoc {2}{2}{sdlkfj}{7}{0}{2}
-\beamer@subsectionintoc {2}{3}{Overview}{13}{0}{2}
-\beamer@subsectionintoc {2}{4}{Background}{15}{0}{2}
-\beamer@subsectionintoc {2}{5}{data}{17}{0}{2}
-\beamer@subsectionintoc {2}{6}{Explanation}{20}{0}{2}
-\beamer@subsectionintoc {2}{7}{Huang}{28}{0}{2}
-\beamer@subsectionintoc {2}{8}{High Density}{37}{0}{2}
-\beamer@subsectionintoc {2}{9}{close relationship}{38}{0}{2}
-\beamer@subsectionintoc {2}{10}{Rise}{41}{0}{2}
-\beamer@subsectionintoc {2}{11}{The impact on Hong Kong's economic status}{44}{0}{2}
-\beamer@sectionintoc {3}{Internal cause}{47}{0}{3}
-\beamer@subsectionintoc {3}{1}{competitive}{47}{0}{3}
-\beamer@sectionintoc {4}{Conclusion}{54}{0}{4}
+\beamer@sectionintoc {2}{Internal causes}{3}{0}{2}
+\beamer@subsectionintoc {2}{1}{competitive}{3}{0}{2}
+\beamer@sectionintoc {3}{External causes}{9}{0}{3}
+\beamer@subsectionintoc {3}{1}{azi}{9}{0}{3}
+\beamer@subsectionintoc {3}{2}{sdlkfj}{13}{0}{3}
+\beamer@subsectionintoc {3}{3}{Overview}{19}{0}{3}
+\beamer@subsectionintoc {3}{4}{Background}{21}{0}{3}
+\beamer@subsectionintoc {3}{5}{data}{23}{0}{3}
+\beamer@subsectionintoc {3}{6}{Explanation}{26}{0}{3}
+\beamer@subsectionintoc {3}{7}{Huang}{33}{0}{3}
+\beamer@subsectionintoc {3}{8}{High Density}{41}{0}{3}
+\beamer@subsectionintoc {3}{9}{close relationship}{42}{0}{3}
+\beamer@subsectionintoc {3}{10}{Rise}{45}{0}{3}
+\beamer@subsectionintoc {3}{11}{The impact on Hong Kong's economic status}{48}{0}{3}
+\beamer@sectionintoc {4}{Conclusion}{50}{0}{4}
