@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.6)  16 JUN 2016 17:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.6)  17 JUN 2016 11:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -848,6 +848,15 @@ LaTeX Warning: Label `threadsVsSync' multiply defined.
 
 LaTeX Warning: Label `threadsVsSync' multiply defined.
 
+
+LaTeX Warning: Label `threadsVsSync' multiply defined.
+
+
+LaTeX Warning: Label `threadsVsSync' multiply defined.
+
+
+LaTeX Warning: Label `threadsVsSync' multiply defined.
+
 )
 \openout1 = `ppt2.aux'.
 
@@ -1044,170 +1053,244 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 ]
 [2
 
-] [3
-
-] <hk4.jpg, id=366, 3493.05pt x 1457.445pt>
-File: hk4.jpg Graphic file (type jpg)
- <use hk4.jpg>
-Package pdftex.def Info: hk4.jpg used on input line 65.
-(pdftex.def)             Requested size: 338.02072pt x 141.01617pt.
-
-Overfull \hbox (30.73085pt too wide) in paragraph at lines 65--65
- [][][][]
- []
-
-[4
-
- <./hk4.jpg>] <hk10.png, id=431, 416.757pt x 225.0006pt>
-File: hk10.png Graphic file (type png)
- <use hk10.png>
-Package pdftex.def Info: hk10.png used on input line 91.
-(pdftex.def)             Requested size: 307.28987pt x 165.90044pt.
-pdfTeX warning (ext4): destination with the same identifier (name{threadsVsSync
-}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.91 \end{frame}
-                 <hk11.png, id=433, 405.6756pt x 219.219pt>
-File: hk11.png Graphic file (type png)
- <use hk11.png>
-Package pdftex.def Info: hk11.png used on input line 91.
-(pdftex.def)             Requested size: 307.28987pt x 166.05957pt.
-pdfTeX warning (ext4): destination with the same identifier (name{threadsVsSync
-}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.91 \end{frame}
-                 <hk12.png, id=434, 416.757pt x 224.5188pt>
-File: hk12.png Graphic file (type png)
- <use hk12.png>
-Package pdftex.def Info: hk12.png used on input line 91.
-(pdftex.def)             Requested size: 307.28987pt x 165.5452pt.
-pdfTeX warning (ext4): destination with the same identifier (name{threadsVsSync
-}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.91 \end{frame}
-                
-Overfull \vbox (21.37411pt too high) detected at line 91
- []
-
-[5
-
- <./hk10.png>]
-File: hk10.png Graphic file (type png)
- <use hk10.png>
-Package pdftex.def Info: hk10.png used on input line 91.
-(pdftex.def)             Requested size: 307.28987pt x 165.90044pt.
-File: hk11.png Graphic file (type png)
- <use hk11.png>
-Package pdftex.def Info: hk11.png used on input line 91.
-(pdftex.def)             Requested size: 307.28987pt x 166.05957pt.
-File: hk12.png Graphic file (type png)
- <use hk12.png>
-Package pdftex.def Info: hk12.png used on input line 91.
-(pdftex.def)             Requested size: 307.28987pt x 165.5452pt.
-
-Overfull \vbox (21.37411pt too high) detected at line 91
- []
-
-[6
-
- <./hk11.png>]
-File: hk10.png Graphic file (type png)
- <use hk10.png>
-Package pdftex.def Info: hk10.png used on input line 91.
-(pdftex.def)             Requested size: 307.28987pt x 165.90044pt.
-File: hk11.png Graphic file (type png)
- <use hk11.png>
-Package pdftex.def Info: hk11.png used on input line 91.
-(pdftex.def)             Requested size: 307.28987pt x 166.05957pt.
-File: hk12.png Graphic file (type png)
- <use hk12.png>
-Package pdftex.def Info: hk12.png used on input line 91.
-(pdftex.def)             Requested size: 307.28987pt x 165.5452pt.
-
-Overfull \vbox (21.37411pt too high) detected at line 91
- []
-
-[7
-
- <./hk12.png>] <hk13.png, id=632, 401.3394pt x 213.9192pt>
-File: hk13.png Graphic file (type png)
- <use hk13.png>
-Package pdftex.def Info: hk13.png used on input line 103.
-(pdftex.def)             Requested size: 184.3758pt x 98.27672pt.
-pdfTeX warning (ext4): destination with the same identifier (name{threadsVsSync
-}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.103 \end{frame}
-                  <hk14.png, id=633, 409.0482pt x 166.221pt>
-File: hk14.png Graphic file (type png)
- <use hk14.png>
-Package pdftex.def Info: hk14.png used on input line 103.
-(pdftex.def)             Requested size: 184.3758pt x 74.92302pt.
-pdfTeX warning (ext4): destination with the same identifier (name{threadsVsSync
-}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.103 \end{frame}
-                  [8
-
- <./hk13.png> <./hk14.png>] [9
-
-] [10
-
-] [11
-
-] [12
-
-] [13
-
 ]
-<hk15.jpg, id=1023, 993.7125pt x 921.4425pt>
-File: hk15.jpg Graphic file (type jpg)
- <use hk15.jpg>
-Package pdftex.def Info: hk15.jpg used on input line 140.
-(pdftex.def)             Requested size: 245.83282pt x 227.94173pt.
-pdfTeX warning (ext4): destination with the same identifier (name{threadsVsSync
-}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.140 \end{frame}
-                  [14
-
- <./hk15.jpg>] [15
-
-]
-LaTeX Font Info:    Try loading font information for U+zeur on input line 157.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/eulervm/uzeur.fd
+LaTeX Font Info:    Try loading font information for U+zeur on input line 64.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/eulervm/uzeur.fd
 File: uzeur.fd 2005/01/11 v4.0 (WaS)
 )
-LaTeX Font Info:    Try loading font information for U+zeus on input line 157.
+LaTeX Font Info:    Try loading font information for U+zeus on input line 64.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/eulervm/uzeus.fd
 File: uzeus.fd 2005/01/11 v4.0 (WaS)
 )
-LaTeX Font Info:    Try loading font information for U+zeuex on input line 157.
-
+LaTeX Font Info:    Try loading font information for U+zeuex on input line 64.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/eulervm/uzeuex.fd
 File: uzeuex.fd 2005/01/11 v4.0 (WaS)
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 157.
+line 64.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 157--157
+) <hk16.jpg, id=335, 559.08875pt x 372.39125pt>
+File: hk16.jpg Graphic file (type jpg)
+ <use hk16.jpg>
+Package pdftex.def Info: hk16.jpg used on input line 64.
+(pdftex.def)             Requested size: 184.3758pt x 122.80424pt.
+ [3
 
+ <./hk16.jpg>] [4
+
+] <hk4.jpg, id=480, 3493.05pt x 1457.445pt>
+File: hk4.jpg Graphic file (type jpg)
+ <use hk4.jpg>
+Package pdftex.def Info: hk4.jpg used on input line 90.
+(pdftex.def)             Requested size: 338.02072pt x 141.01617pt.
+pdfTeX warning (ext4): destination with the same identifier (name{threadsVsSync
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.90 \end{frame}
+                
+Overfull \hbox (30.73085pt too wide) in paragraph at lines 90--90
+ [][][][] 
  []
 
-[16
+<hk17.png, id=481, 410.0118pt x 447.5922pt>
+File: hk17.png Graphic file (type png)
+ <use hk17.png>
+Package pdftex.def Info: hk17.png used on input line 90.
+(pdftex.def)             Requested size: 153.64493pt x 167.73055pt.
+pdfTeX warning (ext4): destination with the same identifier (name{threadsVsSync
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.90 \end{frame}
+                 [5
+
+ <./hk4.jpg>]
+File: hk4.jpg Graphic file (type jpg)
+ <use hk4.jpg>
+Package pdftex.def Info: hk4.jpg used on input line 90.
+(pdftex.def)             Requested size: 338.02072pt x 141.01617pt.
+
+Overfull \hbox (30.73085pt too wide) in paragraph at lines 90--90
+ [][] 
+ []
+
+File: hk17.png Graphic file (type png)
+<use hk17.png>
+Package pdftex.def Info: hk17.png used on input line 90.
+(pdftex.def)             Requested size: 153.64493pt x 167.73055pt.
+ [6
+
+ <./hk17.png>] <hk10.png, id=624, 416.757pt x 225.0006pt>
+File: hk10.png Graphic file (type png)
+
+<use hk10.png>
+Package pdftex.def Info: hk10.png used on input line 116.
+(pdftex.def)             Requested size: 245.83282pt x 132.72173pt.
+pdfTeX warning (ext4): destination with the same identifier (name{threadsVsSync
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.116 \end{frame}
+                  <hk11.png, id=625, 405.6756pt x 219.219pt>
+File: hk11.png Graphic file (type png)
+ <use hk11.png>
+Package pdftex.def Info: hk11.png used on input line 116.
+(pdftex.def)             Requested size: 245.83282pt x 132.84364pt.
+pdfTeX warning (ext4): destination with the same identifier (name{threadsVsSync
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.116 \end{frame}
+                  <hk12.png, id=626, 416.757pt x 224.5188pt>
+File: hk12.png Graphic file (type png)
+ <use hk12.png>
+Package pdftex.def Info: hk12.png used on input line 116.
+(pdftex.def)             Requested size: 245.83282pt x 132.43752pt.
+pdfTeX warning (ext4): destination with the same identifier (name{threadsVsSync
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.116 \end{frame}
+                  [7
+
+ <./hk10.png>]
+File: hk10.png Graphic file (type png)
+ <use hk10.png>
+Package pdftex.def Info: hk10.png used on input line 116.
+(pdftex.def)             Requested size: 245.83282pt x 132.72173pt.
+File: hk11.png Graphic file (type png)
+ <use hk11.png>
+Package pdftex.def Info: hk11.png used on input line 116.
+(pdftex.def)             Requested size: 245.83282pt x 132.84364pt.
+File: hk12.png Graphic file (type png)
+
+<use hk12.png>
+Package pdftex.def Info: hk12.png used on input line 116.
+(pdftex.def)             Requested size: 245.83282pt x 132.43752pt.
+ [8
+
+ <./hk11.png>]
+File: hk10.png Graphic file (type png)
+ <use hk10.png>
+Package pdftex.def Info: hk10.png used on input line 116.
+(pdftex.def)             Requested size: 245.83282pt x 132.72173pt.
+File: hk11.png Graphic file (type png)
+ <use hk11.png>
+Package pdftex.def Info: hk11.png used on input line 116.
+(pdftex.def)             Requested size: 245.83282pt x 132.84364pt.
+File: hk12.png Graphic file (type png)
+ <use hk12.png>
+Package pdftex.def Info: hk12.png used on input line 116.
+(pdftex.def)             Requested size: 245.83282pt x 132.43752pt.
+
+[9
+
+ <./hk12.png>] <hk18.png, id=842, 416.757pt x 269.3262pt>
+File: hk18.png Graphic file (type png)
+ <use hk18.png>
+Package pdftex.def Info: hk18.png used on input line 140.
+(pdftex.def)             Requested size: 245.83282pt x 158.8682pt.
+pdfTeX warning (ext4): destination with the same identifier (name{threadsVsSync
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.140 \end{frame}
+                  <hk19.png, id=843, 414.348pt x 232.2276pt>
+File: hk19.png Graphic file (type png)
+ <use hk19.png>
+Package pdftex.def Info: hk19.png used on input line 140.
+(pdftex.def)             Requested size: 307.28987pt x 172.22487pt.
+pdfTeX warning (ext4): destination with the same identifier (name{threadsVsSync
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.140 \end{frame}
+                  <hk20.png, id=844, 421.575pt x 185.0112pt>
+File: hk20.png Graphic file (type png)
+ <use hk20.png>
+Package pdftex.def Info: hk20.png used on input line 140.
+(pdftex.def)             Requested size: 307.28987pt x 134.85944pt.
+pdfTeX warning (ext4): destination with the same identifier (name{threadsVsSync
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.140 \end{frame}
+                  [10
+
+ <./hk18.png>]
+File: hk18.png Graphic file (type png)
+ <use hk18.png>
+Package pdftex.def Info: hk18.png used on input line 140.
+(pdftex.def)             Requested size: 245.83282pt x 158.8682pt.
+File: hk19.png Graphic file (type png)
+ <use hk19.png>
+Package pdftex.def Info: hk19.png used on input line 140.
+(pdftex.def)             Requested size: 307.28987pt x 172.22487pt.
+File: hk20.png Graphic file (type png)
+
+<use hk20.png>
+Package pdftex.def Info: hk20.png used on input line 140.
+(pdftex.def)             Requested size: 307.28987pt x 134.85944pt.
+ [11
+
+ <./hk19.png>]
+File: hk18.png Graphic file (type png)
+ <use hk18.png>
+Package pdftex.def Info: hk18.png used on input line 140.
+(pdftex.def)             Requested size: 245.83282pt x 158.8682pt.
+File: hk19.png Graphic file (type png)
+ <use hk19.png>
+Package pdftex.def Info: hk19.png used on input line 140.
+(pdftex.def)             Requested size: 307.28987pt x 172.22487pt.
+File: hk20.png Graphic file (type png)
+ <use hk20.png>
+Package pdftex.def Info: hk20.png used on input line 140.
+(pdftex.def)             Requested size: 307.28987pt x 134.85944pt.
+
+[12
+
+ <./hk20.png>] <hk21.png, id=1059, 397.485pt x 199.4652pt>
+File: hk21.png Graphic file (type png)
+ <use hk21.png>
+Package pdftex.def Info: hk21.png used on input line 160.
+(pdftex.def)             Requested size: 307.28987pt x 154.20651pt.
+pdfTeX warning (ext4): destination with the same identifier (name{threadsVsSync
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.160 \end{frame}
+                  <hk22.png, id=1060, 398.9304pt x 191.2746pt>
+File: hk22.png Graphic file (type png)
+ <use hk22.png>
+Package pdftex.def Info: hk22.png used on input line 160.
+(pdftex.def)             Requested size: 307.28987pt x 147.34317pt.
+pdfTeX warning (ext4): destination with the same identifier (name{threadsVsSync
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.160 \end{frame}
+                  [13
+
+ <./hk21.png>]
+File: hk21.png Graphic file (type png)
+ <use hk21.png>
+Package pdftex.def Info: hk21.png used on input line 160.
+(pdftex.def)             Requested size: 307.28987pt x 154.20651pt.
+File: hk22.png Graphic file (type png)
+ <use hk22.png>
+Package pdftex.def Info: hk22.png used on input line 160.
+(pdftex.def)             Requested size: 307.28987pt x 147.34317pt.
+ [14
+
+ <./hk22.png>] [15
+
+] [16
 
 ] [17
 
@@ -1215,63 +1298,87 @@ Underfull \hbox (badness 10000) in paragraph at lines 157--157
 
 ] [19
 
-] [20
+] <hk15.jpg, id=1557, 993.7125pt x 921.4425pt>
+File: hk15.jpg Graphic file (type jpg)
 
-] [21
+<use hk15.jpg>
+Package pdftex.def Info: hk15.jpg used on input line 197.
+(pdftex.def)             Requested size: 245.83282pt x 227.94173pt.
+pdfTeX warning (ext4): destination with the same identifier (name{threadsVsSync
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.197 \end{frame}
+                  [20
 
-] [22
+ <./hk15.jpg>] [21
 
 ]
-<hk1.png, id=1606, 627.09282pt x 73.77562pt>
+Underfull \hbox (badness 10000) in paragraph at lines 214--214
+
+ []
+
+[22
+
+] [23
+
+] [24
+
+] [25
+
+] [26
+
+] [27
+
+] [28
+
+]
+<hk1.png, id=2192, 627.09282pt x 73.77562pt>
 File: hk1.png Graphic file (type png)
  <use hk1.png>
-Package pdftex.def Info: hk1.png used on input line 237.
+Package pdftex.def Info: hk1.png used on input line 297.
 (pdftex.def)             Requested size: 307.28987pt x 36.1526pt.
 pdfTeX warning (ext4): destination with the same identifier (name{threadsVsSync
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.237 \end{frame}
-                  [23
+l.297 \end{frame}
+                  [29
 
- <./hk1.png>] <hk2.jpg, id=1671, 1521.685pt x 720.6925pt>
+ <./hk1.png>] <hk2.jpg, id=2263, 1521.685pt x 720.6925pt>
 File: hk2.jpg Graphic file (type jpg)
 
 <use hk2.jpg>
-Package pdftex.def Info: hk2.jpg used on input line 249.
+Package pdftex.def Info: hk2.jpg used on input line 309.
 (pdftex.def)             Requested size: 307.28987pt x 145.53255pt.
 pdfTeX warning (ext4): destination with the same identifier (name{threadsVsSync
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.249 \end{frame}
-                  [24
+l.309 \end{frame}
+                  [30
 
- <./hk2.jpg>] <hk3.jpg, id=1735, 1429.34pt x 756.8275pt>
-File: hk3.jpg Graphic file (type jpg)
-
-<use hk3.jpg>
-Package pdftex.def Info: hk3.jpg used on input line 260.
-(pdftex.def)             Requested size: 307.28987pt x 162.70319pt.
+ <./hk2.jpg>]
+<hk23.png, id=2334, 1478.52374pt x 783.92876pt>
+File: hk23.png Graphic file (type png)
+ <use hk23.png>
+Package pdftex.def Info: hk23.png used on input line 320.
+(pdftex.def)             Requested size: 276.559pt x 146.62743pt.
 pdfTeX warning (ext4): destination with the same identifier (name{threadsVsSync
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.260 \end{frame}
-                 
-Overfull \vbox (11.98021pt too high) detected at line 260
- []
+l.320 \end{frame}
+                  [31
 
-[25
-
- <./hk3.jpg>]
+ <./hk23.png>]
 Missing character: There is no ‚ in font cmss12!
 Missing character: There is no Ä in font cmss12!
 Missing character: There is no ú in font cmss12!
 Missing character: There is no ‚ in font cmss12!
 Missing character: There is no Ä in font cmss12!
 Missing character: There is no ù in font cmss12!
- [26
+ [32
 
 ]
 Missing character: There is no ‚ in font cmss12!
@@ -1280,7 +1387,7 @@ Missing character: There is no ú in font cmss12!
 Missing character: There is no ‚ in font cmss12!
 Missing character: There is no Ä in font cmss12!
 Missing character: There is no ù in font cmss12!
- [27
+ [33
 
 ]
 Missing character: There is no ‚ in font cmss12!
@@ -1289,26 +1396,7 @@ Missing character: There is no ú in font cmss12!
 Missing character: There is no ‚ in font cmss12!
 Missing character: There is no Ä in font cmss12!
 Missing character: There is no ù in font cmss12!
- [28
-
-]
-Missing character: There is no ‚ in font cmss12!
-Missing character: There is no Ä in font cmss12!
-Missing character: There is no ú in font cmss12!
-Missing character: There is no ‚ in font cmss12!
-Missing character: There is no Ä in font cmss12!
-Missing character: There is no ù in font cmss12!
- [29
-
-] [30
-
-] [31
-
-] [32
-
-] [33
-
-] [34
+ [34
 
 ]
 Missing character: There is no ‚ in font cmss12!
@@ -1319,24 +1407,16 @@ Missing character: There is no Ä in font cmss12!
 Missing character: There is no ù in font cmss12!
  [35
 
-]
-Missing character: There is no ‚ in font cmss12!
-Missing character: There is no Ä in font cmss12!
-Missing character: There is no ú in font cmss12!
-Missing character: There is no ‚ in font cmss12!
-Missing character: There is no Ä in font cmss12!
-Missing character: There is no ù in font cmss12!
- [36
+] [36
+
+] [37
+
+] [38
+
+] [39
 
 ]
-Missing character: There is no ‚ in font cmss12!
-Missing character: There is no Ä in font cmss12!
-Missing character: There is no ú in font cmss12!
-Missing character: There is no ‚ in font cmss12!
-Missing character: There is no Ä in font cmss12!
-Missing character: There is no ù in font cmss12!
-
-[37
+[40
 
 ]
 Missing character: There is no ‚ in font cmss12!
@@ -1345,7 +1425,7 @@ Missing character: There is no ú in font cmss12!
 Missing character: There is no ‚ in font cmss12!
 Missing character: There is no Ä in font cmss12!
 Missing character: There is no ù in font cmss12!
- [38
+ [41
 
 ]
 Missing character: There is no ‚ in font cmss12!
@@ -1354,117 +1434,167 @@ Missing character: There is no ú in font cmss12!
 Missing character: There is no ‚ in font cmss12!
 Missing character: There is no Ä in font cmss12!
 Missing character: There is no ù in font cmss12!
- [39
+ [42
 
-] [40
+]
+Missing character: There is no ‚ in font cmss12!
+Missing character: There is no Ä in font cmss12!
+Missing character: There is no ú in font cmss12!
+Missing character: There is no ‚ in font cmss12!
+Missing character: There is no Ä in font cmss12!
+Missing character: There is no ù in font cmss12!
+ [43
 
-] <hk5.jpg, id=2766, 1937.2375pt x 654.445pt>
-File: hk5.jpg Graphic file (type jpg)
- <use hk5.jpg>
-Package pdftex.def Info: hk5.jpg used on input line 352.
-(pdftex.def)             Requested size: 307.28987pt x 103.80461pt.
-pdfTeX warning (ext4): destination with the same identifier (name{threadsVsSync
-}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.352 \end{frame}
-                  [41
+]
+Missing character: There is no ‚ in font cmss12!
+Missing character: There is no Ä in font cmss12!
+Missing character: There is no ú in font cmss12!
+Missing character: There is no ‚ in font cmss12!
+Missing character: There is no Ä in font cmss12!
+Missing character: There is no ù in font cmss12!
+ [44
 
- <./hk5.jpg>] <hk6.jpg, id=2831, 1577.895pt x 726.715pt>
+]
+Missing character: There is no ‚ in font cmss12!
+Missing character: There is no Ä in font cmss12!
+Missing character: There is no ú in font cmss12!
+Missing character: There is no ‚ in font cmss12!
+Missing character: There is no Ä in font cmss12!
+Missing character: There is no ù in font cmss12!
+ [45
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 412--412
+
+ []
+
+<hk6.jpg, id=3393, 1577.895pt x 726.715pt>
 File: hk6.jpg Graphic file (type jpg)
-
-<use hk6.jpg>
-Package pdftex.def Info: hk6.jpg used on input line 375.
-(pdftex.def)             Requested size: 322.65529pt x 148.60051pt.
+ <use hk6.jpg>
+Package pdftex.def Info: hk6.jpg used on input line 412.
+(pdftex.def)             Requested size: 276.559pt x 127.36552pt.
 pdfTeX warning (ext4): destination with the same identifier (name{threadsVsSync
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.375 \end{frame}
+l.412 \end{frame}
                  
-Overfull \hbox (15.36542pt too wide) in paragraph at lines 375--375
- [][][][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 375--375
+Underfull \hbox (badness 10000) in paragraph at lines 412--412
 
  []
 
-<hk7.jpg, id=2832, 1212.53pt x 558.085pt>
+<hk7.jpg, id=3394, 1212.53pt x 558.085pt>
 File: hk7.jpg Graphic file (type jpg)
  <use hk7.jpg>
-Package pdftex.def Info: hk7.jpg used on input line 375.
+Package pdftex.def Info: hk7.jpg used on input line 412.
 (pdftex.def)             Requested size: 215.10196pt x 99.0033pt.
 pdfTeX warning (ext4): destination with the same identifier (name{threadsVsSync
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.375 \end{frame}
-                  [42
+l.412 \end{frame}
+                  [46
 
  <./hk6.jpg>]
-File: hk6.jpg Graphic file (type jpg)
- <use hk6.jpg>
-Package pdftex.def Info: hk6.jpg used on input line 375.
-(pdftex.def)             Requested size: 322.65529pt x 148.60051pt.
+Underfull \hbox (badness 10000) in paragraph at lines 412--412
 
-Overfull \hbox (15.36542pt too wide) in paragraph at lines 375--375
- [][] 
  []
 
+File: hk6.jpg Graphic file (type jpg)
+<use hk6.jpg>
+Package pdftex.def Info: hk6.jpg used on input line 412.
+(pdftex.def)             Requested size: 276.559pt x 127.36552pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 375--375
+Underfull \hbox (badness 10000) in paragraph at lines 412--412
 
  []
 
 File: hk7.jpg Graphic file (type jpg)
 <use hk7.jpg>
-Package pdftex.def Info: hk7.jpg used on input line 375.
+Package pdftex.def Info: hk7.jpg used on input line 412.
 (pdftex.def)             Requested size: 215.10196pt x 99.0033pt.
- [43
+ [47
 
- <./hk7.jpg>] [44
-
-]
-<hk8.jpg, id=3026, 1744.5175pt x 776.9025pt>
+ <./hk7.jpg>] <hk8.jpg, id=3536, 1744.5175pt x 776.9025pt>
 File: hk8.jpg Graphic file (type jpg)
- <use hk8.jpg>
-Package pdftex.def Info: hk8.jpg used on input line 402.
+
+<use hk8.jpg>
+Package pdftex.def Info: hk8.jpg used on input line 426.
 (pdftex.def)             Requested size: 307.28987pt x 136.84906pt.
 pdfTeX warning (ext4): destination with the same identifier (name{threadsVsSync
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.402 \end{frame}
-                  [45
+l.426 \end{frame}
+                  [48
 
- <./hk8.jpg>] <hk8.png, id=3090, 781.4796pt x 524.6802pt>
+ <./hk8.jpg>] [49
+
+] [50
+
+]
+<hk8.png, id=3747, 781.4796pt x 524.6802pt>
 File: hk8.png Graphic file (type png)
-
-<use hk8.png>
-Package pdftex.def Info: hk8.png used on input line 414.
-(pdftex.def)             Requested size: 215.10196pt x 144.4196pt.
+ <use hk8.png>
+Package pdftex.def Info: hk8.png used on input line 474.
+(pdftex.def)             Requested size: 276.559pt x 185.67433pt.
 pdfTeX warning (ext4): destination with the same identifier (name{threadsVsSync
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.414 \end{frame}
-                  [46
+l.474 \end{frame}
+                  [51
 
- <./hk8.png>] [47
+ <./hk8.png>]
+<hk24.png, id=3818, 775.2162pt x 355.5684pt>
+File: hk24.png Graphic file (type png)
+ <use hk24.png>
+Package pdftex.def Info: hk24.png used on input line 485.
+(pdftex.def)             Requested size: 276.559pt x 126.84888pt.
+pdfTeX warning (ext4): destination with the same identifier (name{threadsVsSync
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.485 \end{frame}
+                  [52
 
-] [48
+ <./hk24.png>]
+<hk5.jpg, id=3890, 1937.2375pt x 654.445pt>
+File: hk5.jpg Graphic file (type jpg)
+ <use hk5.jpg>
+Package pdftex.def Info: hk5.jpg used on input line 499.
+(pdftex.def)             Requested size: 307.28987pt x 103.80461pt.
+pdfTeX warning (ext4): destination with the same identifier (name{threadsVsSync
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.499 \end{frame}
+                  [53
+
+ <./hk5.jpg>] <hk25.png, id=3961, 931.48pt x 501.875pt>
+File: hk25.png Graphic file (type png)
+
+<use hk25.png>
+Package pdftex.def Info: hk25.png used on input line 507.
+(pdftex.def)             Requested size: 307.28987pt x 165.56564pt.
+pdfTeX warning (ext4): destination with the same identifier (name{threadsVsSync
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.507 \end{frame}
+                  [54
+
+ <./hk25.png>] [55
 
 ]
 Missing character: There is no ‚ in font cmss12!
 Missing character: There is no Ä in font cmss12!
 Missing character: There is no ô in font cmss12!
- [49
+ [56
 
-] [50
+] [57
 
-] [51
+] [58
 
 ]
 \tf@nav=\write7
@@ -1476,13 +1606,13 @@ Missing character: There is no ô in font cmss12!
 \tf@snm=\write9
 \openout9 = `ppt2.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 494.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 494.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 569.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 569.
  (./ppt2.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 494.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 494.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 569.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 569.
 Package rerunfilecheck Info: File `ppt2.out' has not changed.
-(rerunfilecheck)             Checksum: FA81069AE231577A288B98A6119606EF;984.
+(rerunfilecheck)             Checksum: AAFA9F14F1D7B660DC67BC6C73D5AFCF;1142.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1491,13 +1621,13 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 494.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 569.
  ) 
 Here is how much of TeX's memory you used:
- 18287 strings out of 493089
- 346250 string characters out of 6134843
- 443423 words of memory out of 5000000
- 21147 multiletter control sequences out of 15000+600000
+ 18359 strings out of 493089
+ 346923 string characters out of 6134843
+ 449430 words of memory out of 5000000
+ 21188 multiletter control sequences out of 15000+600000
  13604 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,20n,57p,409b,764s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1511,10 +1641,10 @@ sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr
 local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/l
 ocal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/euler/eufm10.pfb></usr
 /local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/euler/eufm7.pfb>
-Output written on ppt2.pdf (51 pages, 2833136 bytes).
+Output written on ppt2.pdf (58 pages, 2964867 bytes).
 PDF statistics:
- 3548 PDF objects out of 3580 (max. 8388607)
- 3377 compressed objects within 34 object streams
- 172 named destinations out of 1000 (max. 500000)
- 308 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 4389 PDF objects out of 5155 (max. 8388607)
+ 4184 compressed objects within 42 object streams
+ 196 named destinations out of 1000 (max. 500000)
+ 367 words of extra memory for PDF output out of 10000 (max. 10000000)
 
